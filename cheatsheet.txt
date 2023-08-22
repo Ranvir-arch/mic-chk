@@ -7,3 +7,5 @@ Git cheat-sheet
 3. git add file_name : For adding the file on the staging area.
 
 4. git commit -m "Message" : For commiting the changes or saving it in the history with a message.
+
+5. git restore --staged file_name : This is use to unstage a file without commiting it.
