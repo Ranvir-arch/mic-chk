@@ -34,6 +34,8 @@ Git cheat-sheet
 
 17. git merge branch-name : It merges the given branch with the main branch.
 
-### To make contributions in a project first we need to fork the project in our account and then we can make changes in the copy of the project which was forked in our account.
+### To make contributions in a project first we need to fork the project in our account and then we can make changes in the copy of the project which was forked in our account. The url from which the froject has been forked is known as upstream url.
 
 18. git clone <url> : To clone a project.
+
+19. git push url-name branch-name -f : to force push.
