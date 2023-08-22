@@ -33,3 +33,7 @@ Git cheat-sheet
 16. git checkout branch-name : This makes head to point at the given branch name.
 
 17. git merge branch-name : It merges the given branch with the main branch.
+
+### To make contributions in a project first we need to fork the project in our account and then we can make changes in the copy of the project which was forked in our account.
+
+18. git clone <url> : To clone a project.
