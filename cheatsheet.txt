@@ -13,3 +13,17 @@ Git cheat-sheet
 6. git log : To see the history of commitment.
 
 7. git reset hash_id_of_commitment : For deleting the commit.
+
+8. git stash : remove the file from stage area without commiting and without untracking, we can use this file later
+
+9. git stash pop : to get back the file in to the stage from the stash.
+
+10. git stash clear : to permanently remove the contentof stash which cannot be restored.
+
+11. git remote add origin(url-name) <url> : To add your repository on github.
+
+12. git remote -v : To see all the repositories with the project.
+
+13. git remote rm <url> : To remove a url.
+
+14. git push url-name branch_name : To share the changes in the repository.
