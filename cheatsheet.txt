@@ -11,3 +11,5 @@ Git cheat-sheet
 5. git restore --staged file_name : This is use to unstage a file without commiting it.
 
 6. git log : To see the history of commitment.
+
+7. git reset hash_id_of_commitment : For deleting the commit.
