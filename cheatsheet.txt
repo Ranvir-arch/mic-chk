@@ -39,3 +39,9 @@ Git cheat-sheet
 18. git clone <url> : To clone a project.
 
 19. git push url-name branch-name -f : to force push.
+
+20. git fetch --all --prune : To fetch all the files.
+
+21. git reset --hard upstream/main : reset main branch of origin with the main branch of upstream.
+
+22. git pull upsream/main : to do the above two commands in a single command.
