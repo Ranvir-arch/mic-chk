@@ -27,3 +27,9 @@ Git cheat-sheet
 13. git remote rm <url> : To remove a url.
 
 14. git push url-name branch_name : To share the changes in the repository.
+
+15. git branch branch-name : To add a new branch.
+
+16. git checkout branch-name : This makes head to point at the given branch name.
+
+17. git merge branch-name : It merges the given branch with the main branch.
