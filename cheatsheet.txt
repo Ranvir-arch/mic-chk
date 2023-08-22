@@ -1,0 +1,9 @@
+Git cheat-sheet
+
+1. git init : For initialising .git file (This command will create an empty .git file).
+
+2. git status : This command shows if any untracked changes are present in the directory.
+
+3. git add file_name : For adding the file on the staging area.
+
+4. git commit -m "Message" : For commiting the changes or saving it in the history with a message.
